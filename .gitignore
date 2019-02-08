@@ -24,3 +24,17 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.gitignore
+.idea/modules/
+.idea/vcs.xml
+module-api/.gradle/4.10.2/vcsMetadata-1/
+module-api/out/production/classes/generated/
+module-api/src/main/resources/static/
+module-api/src/main/resources/templates/
+module-common/.gradle/4.10.2/vcsMetadata-1/
+module-common/src/main/resources/static/
+module-common/src/main/resources/templates/
+module-web/.gradle/4.10.2/vcsMetadata-1/
+module-web/out/production/classes/generated/
+module-web/src/main/resources/static/
+module-web/src/main/resources/templates/
