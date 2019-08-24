@@ -1,4 +1,6 @@
-rootProject.name = 'gradle-multi-module'
+rootProject.name = 'gradle-multi'
 
-include 'module-api', 'module-common', 'module-web'
+include 'module-api'
+include 'module-common'
+include 'module-web'
 

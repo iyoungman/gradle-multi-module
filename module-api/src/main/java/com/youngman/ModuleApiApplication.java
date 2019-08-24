@@ -1,14 +1,13 @@
-package com.youngman.modulecommon;
+package com.youngman;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ModuleCommonApplication {
+public class ModuleApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ModuleCommonApplication.class, args);
+        SpringApplication.run(ModuleApiApplication.class, args);
     }
 
 }
-
