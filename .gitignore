@@ -183,3 +183,17 @@ gradle-app.setting
 
 
 # End of https://www.gitignore.io/api/gradle,java,eclipse,intellij
+module-api/build/reports/
+module-api/build/resources/
+module-api/build/test-results/
+module-api/build/tmp/
+module-api/src/main/java/
+module-api/src/main/resources/application.properties
+module-api/src/test/java/com/youngman/ModuleApiApplicationTests.java
+module-common/build/resources/
+module-common/build/tmp/
+module-common/src/main/java/com/youngman/domain/
+module-common/src/main/java/com/youngman/repository/
+module-common/src/main/resources/application.properties
+module-common/src/test/
+module-web/src/test/resources/
